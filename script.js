@@ -31,7 +31,7 @@ const music_list = [
         img : 'img2.jpg',
         name : 'Feel The Jailer',
         artist : 'Anirudh Ravichander,Vishal Mishra',
-        music : 'Feel The JAiler.mp3'
+        music : 'Feel The Jailer.mp3'
     },
     {
         img : 'img3.png',
